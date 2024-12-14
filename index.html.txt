@@ -1,1 +1,1 @@
-echo '<input type="text" name="default">'
+echo '<input type="text" name="search">'
